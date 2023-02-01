@@ -213,12 +213,6 @@ Resource                    | Difficulty Level
 [cmu 2021 Neural Nets for NLP 2021🎥][cmunlp2021]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Jurafsky and Manning Introduction to Natural Language Processing🎥][jurafskynlp]| ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 
-### Must Read NLP Papers:
-In this section, I am going to list the most influential papers that help people who want to dig deeper into the research world of NLP to catch up.
-Paper                    | Comment
-------------------------- | ---------------
-# TODO
-
 
 
 
